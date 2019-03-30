@@ -3,7 +3,8 @@ section.resume-section {
   padding-bottom: 5rem !important;
   max-width: 75rem;
   .resume-item {
-    .resume-content {}
+    .resume-content {
+    }
     .resume-date {
       min-width: none;
     }
@@ -24,4 +25,11 @@ section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
   }
+}
+.img-talk {
+  height: auto;
+  margin-bottom: 10px;
+  box-shadow: 1px 1px 20px #888;
+  max-width: 500px;
+  margin: 5px 0 20px;
 }
