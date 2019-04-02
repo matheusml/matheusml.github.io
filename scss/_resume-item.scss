@@ -30,6 +30,11 @@ section.resume-section {
   height: auto;
   margin-bottom: 10px;
   box-shadow: 1px 1px 20px #888;
-  max-width: 500px;
+  max-width: 280px;
   margin: 5px 0 20px;
+}
+@media (min-width: 992px) {
+  .img-talk {
+    max-width: 500px;
+  }
 }
